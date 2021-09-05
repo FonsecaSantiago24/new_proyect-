@@ -1,0 +1,2 @@
+este es mi fichero d etexto para aprender los comandos vim.
+
